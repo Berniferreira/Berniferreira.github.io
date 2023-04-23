@@ -1,0 +1,26 @@
+body{
+    background-image: url("img/glaciar.jpg");
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 23px;
+    margin: 33px;
+    margin-left: 133px;
+    margin-right: 122px;
+}
+footer{
+        display: flex;
+        text-align: center;
+        background-color: rgb(143, 242, 143);
+        position: absolute;
+        margin-top: 188px;
+}
+footer a:hover{
+    color: darkorchid;
+}
+footer a{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}

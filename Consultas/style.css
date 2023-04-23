@@ -1,0 +1,29 @@
+body{
+    background-image: url("./fondo.jpg");
+}
+
+form{
+    text-align:center;
+    font-size:larger; 
+}
+h1{
+    text-align:center;
+}
+footer {
+    display: flex;
+    text-align: center;
+    background-color: rgb(143, 242, 143);
+    margin-top: 333px;
+    position: absolute;
+}
+ footer a:hover{
+    color: darkorchid;
+}
+footer a{
+    text-decoration: none;
+}
+
+
+  
+  
+

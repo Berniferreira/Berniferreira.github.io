@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+#carousel{
+  width: 483px;
+  height: 1px;
+  padding-right: 122px;
+  margin-left: 1076px;
+  bottom: 345px;
+  right: 323px;
+}
+.logo{
+  width: 63px;
+  height: 55px;
+}
+.inteligencia{
+  text-align: center;
+}
+header ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  font-size: 17px;
+  font-family: Arial;
+  line-height: normal;
+}
+h1{
+  text-align: center;
+}
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  background-color: #7fe9c2;
+  width: 100%;
+  height: 56px;
+}
+ul a:hover {
+  color: yellowgreen; 
+}
+ul a {
+  text-decoration: none;
+}
+header ul li{
+  margin: 20px;
+  ;
+}
+h4{
+  margin-left: 50px;
+}
+
+a:hover{
+  color: yellowgreen;  
+  }
+
+p {
+  font-size: 17px;
+  font-family: Arial;
+  line-height: normal;
+  font-weight: 300;
+  text-align:justify;
+  }
+h2{
+    font-family:cursive;
+  }
+ol{
+    font-size: 17px;
+    font-family: Arial;
+    line-height: normal;
+  }
+  button {
+    color: white;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+  }
+  
+  .bxl-instagram{
+    color: #ff00ff;
+    font-size: 30px;
+    text-decoration: none;
+  }
+  .bxl-whatsapp{
+    color: #00ff37;
+    font-size: 30px;
+    text-decoration: none;
+  }
+  .bxl-whatsapp:hover {
+    color: yellowgreen; 
+  }
+  .bxl-instagram:hover {
+    color: yellowgreen; 
+  }
+  .intro p{
+    text-align: center;
+    background-color: pink;
+    margin-left: 34px;
+    margin-right: 45px;
+    height: 176px;
+  }
+  iframe {
+    margin-left: 66px;
+  }
+  .nuevo{
+    margin-left: 177px;
+  }
+ footer{
+  background-color: rgb(143, 242, 143);
+ }
+ 
+  
